@@ -8,13 +8,14 @@ Javier de la Cruz, Carlos de Oro, Stiven Díaz, Rogelio Grau y Darling Vasquez
 Editorial <...>, <año>. ISBN <...>.
 
 ## Contenido
+
 | Capítulo | Cuaderno | Abrir en línea |
 |---|---|---|
-| 1. Python | `Cap1_Python.ipynb` | [![Abrir en Colab](https://github.com/soystivendiaz/Calculo-integral-laboratorios/blob/main/Cap1_Python.ipynb) |
-| 2. Integración | `cap2/Cap2_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/cap2/Cap2_Python.ipynb) |
-| 3. Métodos | `cap3/Cap3_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/cap3/Cap3_Python.ipynb) |
-| 4. Aplicaciones | `cap4/Cap4_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/cap4/Cap4_Python.ipynb) |
-| 5. Series | `cap5/Cap5_Laboratorio.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/cap5/Cap5_Laboratorio.ipynb) |
+| 1. Python | `Cap1_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soystivendiaz/Calculo-integral-laboratorios/blob/main/Cap1_Python.ipynb) |
+| 2. Integración | `Cap2_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soystivendiaz/Calculo-integral-laboratorios/blob/main/Cap2_Python.ipynb) |
+| 3. Métodos | `Cap3_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soystivendiaz/Calculo-integral-laboratorios/blob/main/Cap3_Python.ipynb) |
+| 4. Aplicaciones | `Cap4_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soystivendiaz/Calculo-integral-laboratorios/blob/main/Cap4_Python.ipynb) |
+| 5. Series | `Cap5_Laboratorio.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soystivendiaz/Calculo-integral-laboratorios/blob/main/Cap5_Laboratorio.ipynb) |
 
 ## Cómo usarlos
 - **En línea (sin instalar nada):** abra el cuaderno en Google Colab con el botón de cada archivo.
