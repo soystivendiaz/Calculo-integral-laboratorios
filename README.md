@@ -6,6 +6,9 @@ Material complementario del libro *<Título del libro>*, <Autores>, Editorial <.
 | Capítulo | Cuaderno |
 |---|---|
 | 1. Python | `cap1/Cap1_Python.ipynb` |
+| 2. Integración | `cap2/Cap2_Python.ipynb` |
+| 3. Métodos | `cap3/Cap3_Python.ipynb` |
+| 4.  Aplicaciones | `cap4/Cap4_Python.ipynb` |
 | 5. Series | `cap5/Cap5_Laboratorio.ipynb` |
 
 ## Cómo usarlos
