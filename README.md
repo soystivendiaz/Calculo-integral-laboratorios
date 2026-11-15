@@ -10,7 +10,7 @@ Editorial <...>, <año>. ISBN <...>.
 ## Contenido
 | Capítulo | Cuaderno | Abrir en línea |
 |---|---|---|
-| 1. Python | `cap1/Cap1_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/cap1/Cap1_Python.ipynb) |
+| 1. Python | `Cap1_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/Cap1_Python.ipynb) |
 | 2. Integración | `cap2/Cap2_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/cap2/Cap2_Python.ipynb) |
 | 3. Métodos | `cap3/Cap3_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/cap3/Cap3_Python.ipynb) |
 | 4. Aplicaciones | `cap4/Cap4_Python.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/cap4/Cap4_Python.ipynb) |
